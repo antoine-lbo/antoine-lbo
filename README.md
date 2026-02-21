@@ -45,13 +45,6 @@ As the founder of [Syncta.ai](https://syncta.ai), I help companies ship producti
 
 **Epitech** -- Full-Stack Web Development
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=antoine-lbo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-lbo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-batreau)
